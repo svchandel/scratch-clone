@@ -2,6 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
 import "tailwindcss/tailwind.css";
+import 'bootstrap/dist/css/bootstrap.css';
+
 
 console.log("hi");
 
